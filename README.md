@@ -11,4 +11,4 @@ Este nueva forma de ver el código informático ha impactado de tal manera que h
 
 Es un nuevo espacio de experimentación que Bakata Hacklab y Libre Colaboración abren para que los asistentes puedan dar sus primeras pinceladas digitales y así experimentar la creación de contenidos multimedia desde la programación.
 
-![](giphy.gif) 
+![](giphy.gif) ![](codigo.png)
