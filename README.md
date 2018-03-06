@@ -11,25 +11,32 @@ Este nueva forma de ver el código informático ha impactado de tal manera que h
 
 Es un nuevo espacio de experimentación que Bakata Hacklab y Libre Colaboración abren para que los asistentes puedan dar sus primeras pinceladas digitales y así experimentar la creación de contenidos multimedia desde la programación. Esto taller contara con cuatro sesiones de tres horas cada uno, los cuales se dictaran en La Redada Miscelánea Culturar
 
+### ¿A quién va dirigido?
+
+Este atelier va dirigido para personas que tenga alguna de las siguientes habilidades o perfiles: 
+
+* Conocimientos básicos en programación.
+* Conocimientos básicos en edición de audio o video.
+* Artistas audiovisuales.
+* Usuarios de software libre o aficionados a la tecnología.
+* Estudiantes de artes digitales, plasticas o afines.
+
 ### Cronograma
 
 Sesión | Tema
 ------ | -----
-7 de abril | Introducción a P5js desde ejemplos, contextualización de graficos por computadora e instalación de P5js. 
+7 de abril | Introducción a P5js desde ejemplos, contextualización de gráficos por computadora e instalación de P5js. 
 14 de abril | Primeras figuras geometricas, modificar sus caracteristicas y animaciones básicas.
-21 de abril | Creación de objetos y ciclos.
+21 de abril | Creación de objetos y ejecución de ciclos.
 28 de abril | No habrá taller por celebración del Flisol, todos estarán invitados.
 5 de mayo | Uso básico de imagenes y audios, aclaraciones finales.
 
 ### Datos del Atelier
 
 * **Lugar:** La Redada Miscelánea Culturar Calle 17 No. 2-51 Bogotá, Colombia
-* **Valor:** 5K por taller[1]
+* **Valor:** 5K por taller (El valor del taller es para suplir los gastos del prestamo del sitio)
 * **Cupos:** 10 personas
 * **Fecha:** Del 7 de abril al 5 de mayo del 2018
 * **Inscripciones:** Proximanete
-
-
-[1]: El valor del taller es para suplir los gastos del prestamo del sitio
 
 ![](giphy.gif) ![](codigo.png)
