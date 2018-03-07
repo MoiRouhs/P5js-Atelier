@@ -9,7 +9,7 @@ Este nueva forma de ver el código informático ha impactado de tal manera que h
 
 ## P5js Atelier
 
-Es un nuevo espacio de experimentación que Bakata Hacklab y Libre Colaboración abren para que los asistentes puedan dar sus primeras pinceladas digitales y así experimentar la creación de contenidos multimedia desde la programación. Este atelier contará con cuatro sesiones de tres horas cada uno, los cuales se dictarán en La Redada Miscelánea Culturar
+Es un nuevo espacio de experimentación que Bakata Hacklab y Libre Colaboración abren para que los asistentes puedan dar sus primeras pinceladas digitales y así experimentar la creación de contenidos multimedia desde la programación. Este atelier contará con cuatro sesiones de tres horas cada uno, los cuales se dictarán en La Redada Miscelánea Cultural.
 
 ### ¿A quién va dirigido?
 
@@ -33,8 +33,8 @@ Sesión | Tema
 
 ### Datos del Atelier
 
-* **Lugar:** La Redada Miscelánea Culturar, Calle 17 No. 2-51 Bogotá, Colombia
-* **Valor:** 5K por sesión (El valor del taller es para suplir los gastos del prestamo del sitio)
+* **Lugar:** La Redada Miscelánea Cultural, Calle 17 No. 2-51 Bogotá, Colombia
+* **Valor:** 5K por sesión 
 * **Cupos:** 10 personas
 * **Fecha:** Del 7 de abril al 5 de mayo del 2018
 * **Hora:** de 1 a 4 pm (sujeto a modificaciones, podría ser desde las dos dependiendo lo convenido con el sitio)
