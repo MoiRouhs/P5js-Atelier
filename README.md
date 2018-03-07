@@ -15,7 +15,7 @@ Es un nuevo espacio de experimentación que Bakata Hacklab y Libre Colaboración
 
 Este atelier va dirigido para personas que tenga alguna de las siguientes habilidades o perfiles: 
 
-* Conocimientos básicos en programación.
+*  Conocimientos básicos en programación.
 * Conocimientos básicos en edición de audio o video.
 * Artistas audiovisuales.
 * Usuarios de software libre o aficionados a la tecnología.
@@ -37,7 +37,8 @@ Sesión | Tema
 * **Valor:** 5K por taller (El valor del taller es para suplir los gastos del prestamo del sitio)
 * **Cupos:** 10 personas
 * **Fecha:** Del 7 de abril al 5 de mayo del 2018
-* **Inscripciones: [Aquí]**(https://docs.google.com/forms/d/e/1FAIpQLScjQvu_4SOFlIU3IRKTRFf0wrcb3_UDEP5sTT9QB54BXgGXJQ/viewform?usp=sf_link) Fecha máxima de inscripción 2 de abril.
+* **Inscripciones:** [Aquí](https://docs.google.com/forms/d/e/1FAIpQLScjQvu_4SOFlIU3IRKTRFf0wrcb3_UDEP5sTT9QB54BXgGXJQ/viewform?usp=sf_link) Fecha máxima de inscripción 2 de abril.
 
------------------------------------------------
+----------------------//-------------------------
+
 ![](giphy.gif) ![](codigo.png)
