@@ -8,16 +8,18 @@ Un script de p5 se compone de tres funciones esenciales:
 
 **setup:** Contiene los elementos estáticos y diferentes parámetro de configuración inicial, es obligatorio su uso.
 
-´´´JavaScript
+´´´javascript
 function setup(){
 };
 ´´´
 
 **draw()** Es la función que contiene los diferentes elementos que se visualizan en pantalla y los cuales puede ser dinámicos e interactivos, aunque su uso no es obligatorio esta función es casi omnipresente en las diferentes creaciones.
 
-´´´JavaScript
+´´´javaScript
+
 function draw(){
 };
+
 ´´´
 
 **preload()** Permite cargar el contenido el contenido antes de empezar la ejecución de setup() y draw()
