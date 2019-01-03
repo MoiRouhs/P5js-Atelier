@@ -9,7 +9,7 @@ Este nueva forma de ver el código informático ha impactado de tal manera que h
 
 ## P5js Atelier
 
-Es un nuevo espacio de experimentación que Carlos Rocha desea abrir para que los asistentes puedan dar sus primeras pinceladas digitales y así experimentar la creación de contenidos multimedia desde la programación. Este atelier contará con cuatro sesiones de tres horas cada uno, donde los asistentes podrán exprimentar de primera mano .
+Es un nuevo espacio de experimentación que Carlos Rocha desea abrir para que los asistentes puedan dar sus primeras pinceladas digitales y así experimentar la creación de contenidos multimedia desde la programación. Este atelier contará con cuatro sesiones de tres horas cada uno, donde los asistentes podrán exprimentar de forma practica la generación de gráficos por computador.
 
 ### ¿A quién va dirigido?
 
