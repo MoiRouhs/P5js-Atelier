@@ -25,7 +25,7 @@ Este atelier va dirigido para personas que tenga alguna de las siguientes habili
 
 Salon con computadors y un video beam el cual este disponible los días sabados entre 3 a 6 de la tarde.
 
-### ¡quién lo dictaría?
+### ¿Quién lo dictaría?
 
 El taller estaría a cargo de Carlos Rocha, quien es un entusiasta de las tecnologías libres y la cultura libre, en el 2018 dedico gran parte de su tiempo en el estudio empirico de la interacción entre código y arte, lleva a cabo formaciones en Plataforma Bogotá como: "Live coding los patrones de la música" y "(A)sincronia audivisual"
 
