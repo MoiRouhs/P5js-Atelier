@@ -33,18 +33,19 @@ El taller estaría a cargo de Carlos Rocha, quien es un entusiasta de las tecnol
 
 Sesión | Tema
 ------ | -----
-9 de febrero | Primeras figuras geometricas y modificación de sus caracteristicas. 
-16 de febrero | Animaciones básicas.
-23 de febrero | Ejecución de ciclos.
-2 de marzo | Uso básico de imagenes y audios.
+2 de marzo | Primeras figuras geometricas y modificación de sus caracteristicas. 
+9 de marzo | Animaciones básicas.
+16 de marzo | Ejecución de ciclos.
+23 de marzo | Uso básico de imagenes y audios.
+30 de marzo | Aclaración de dudas y muestra final.
 
 ### Datos del Atelier
 
 * **Lugar:** Por convenir
 * **Valor:** No tiene
 * **Cupos:** 15 personas
-* **Fecha:** Del 9 de febrero al 2 de marzo del 2019
-* **Hora:** de 3 a 6 pm (sujeto a modificaciones, podría ser desde las dos dependiendo lo convenido con el sitio)
+* **Fecha:** Del 2 de marzo al 30 de marzo del 2019
+* **Hora:** de 5:30 pm a 7:30 pm 
 * **Inscripciones:** Por convenir
 
 ----------------------//-------------------------
