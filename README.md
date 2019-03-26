@@ -41,7 +41,8 @@ Sesión | Tema
 
 ### Enlaces de interes
 
-* [Hydra](https://hydra-editor.glitch.me/?sketch_id=example_7&code=JTJGJTJGJTIwYnklMjBSb2RyaWdvJTIwVmVsYXNjbyUwQSUyRiUyRiUyMGh0dHBzJTNBJTJGJTJGeWVjdG8uZ2l0aHViLmlvJTJGJTBBJTBBb3NjKDMlMkMlMjAwLjIlMkMlMjAwKS5jb2xvcigyJTJDJTIwMC43JTJDJTIwMSkubW9kdWxhdGUobzElMkMlMjAwLjgpLmRpZmYobzEpLm91dChvMCklMEFvc2MoKCklMjAlM0QlM0UlMjAoYS5mZnQlNUIwJTVEKjM5KSUyQyUyMDAuMiUyQyUyMDApLmNvbG9yKDAlMkMlMjAxJTJDJTIwMikucm90YXRlKDEuNTcpLm91dChvMSklMEFvc2MoMzAlMkMlMjAwLjIlMkMlMjAwKS5vdXQobzIp)
+* [Hydra](https://hydra-editor.glitch.me/)
+* [Tutorial Hydra](https://github.com/toplapbogota/una-introduccion-a-hydra?fbclid=IwAR1NDYLuBTWvW-4knMMHOmwem37UFXSzhrNDypkTYTMk1ScdPMQ9Cfhv7ZQ)
 * [P5 Live](https://teddavis.org/p5live/)
 * [Nega Sonic](https://negasonic.herokuapp.com/)
 * [Sonic Pi](https://sonic-pi.net/)
