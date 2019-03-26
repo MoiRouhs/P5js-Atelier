@@ -39,14 +39,16 @@ Sesión | Tema
 23 de marzo | Uso básico de imagenes y audios.
 30 de marzo | Aclaración de dudas y muestra final.
 
-### Datos del Atelier
+### Enlaces de interes
 
-* **Lugar:** Por convenir
-* **Valor:** No tiene
-* **Cupos:** 15 personas
-* **Fecha:** Del 2 de marzo al 30 de marzo del 2019
-* **Hora:** de 5:30 pm a 7:30 pm 
-* **Inscripciones:** Por convenir
+* [Hydra](https://hydra-editor.glitch.me/?sketch_id=example_7&code=JTJGJTJGJTIwYnklMjBSb2RyaWdvJTIwVmVsYXNjbyUwQSUyRiUyRiUyMGh0dHBzJTNBJTJGJTJGeWVjdG8uZ2l0aHViLmlvJTJGJTBBJTBBb3NjKDMlMkMlMjAwLjIlMkMlMjAwKS5jb2xvcigyJTJDJTIwMC43JTJDJTIwMSkubW9kdWxhdGUobzElMkMlMjAwLjgpLmRpZmYobzEpLm91dChvMCklMEFvc2MoKCklMjAlM0QlM0UlMjAoYS5mZnQlNUIwJTVEKjM5KSUyQyUyMDAuMiUyQyUyMDApLmNvbG9yKDAlMkMlMjAxJTJDJTIwMikucm90YXRlKDEuNTcpLm91dChvMSklMEFvc2MoMzAlMkMlMjAwLjIlMkMlMjAwKS5vdXQobzIp)
+* [P5 Live](https://teddavis.org/p5live/)
+* [Nega Sonic](https://negasonic.herokuapp.com/)
+* [Sonic Pi](https://sonic-pi.net/)
+* [Visor](http://www.visor.live/)
+* [Processing](https://www.processing.org/)
+* [Praxis Live](https://www.praxislive.org/)
+* [Ruby Processing](https://ruby-processing.github.io/)
 
 ----------------------//-------------------------
 
