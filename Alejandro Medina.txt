@@ -1,40 +1,20 @@
-let capture, video;
-
-let vScale = 100;
-
+var angle =0.0;
+var vid;
 function setup() {
-	createCanvas(windowWidth, windowHeight, WEBGL);
-	capture = createCapture(VIDEO);
-	capture.size(width / vScale, height / vScale);
-	capture.hide();
-	video = createGraphics(capture.width, capture.height);
+	createCanvas(windowWidth, windowHeight);
+	background(100);
+	vid  = createCapture(VIDEO);
+	vid.loop();
+	vid.hide();
+  imageMode(CENTER)
+
 }
 
 function draw() {
-	background(51);
-	
-	translate(-width / 2, -height / 2);
-	
-	video.image(capture, 0, 0);
-	video.loadPixels();
-	
-	for (let y = 0; y < video.height; y++) {
-		for (let x = 0; x < video.width; x++) {
-			let index = (video.width - x + 1 + (y * video.width)) * 4;
-			// let index = (y * video.width + x) * 4;
-			let r = video.pixels[index + 0];
-			let g = video.pixels[index + 1];
-			let b = video.pixels[index + 2];
-
-			let bright = (r + g + b) / 3;
-
-			let w = map(bright, 0, 255, 0, vScale);
-			
-			// Animation
-			fill(255);
-			noStroke();
-			rectMode(CENTER);
-			rect(x * vScale, y * vScale, w, w);
-		}
-	}
+	if (mouseIsPressed){
+	translate(mouseX,mouseY);
+	rotate(angle);
+	image(vid, 0, 0, 160, 120);
+	angle += 0.05;}
+    
 }
