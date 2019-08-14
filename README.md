@@ -43,19 +43,5 @@ Sesión | Tema
 4 | Uso básico de imagenes y audios.
 5 | Aclaración de dudas y muestra final.
 
-### Enlaces de interes
-
-* [Toplap](https://toplap.org/)
-* [Hydra](https://hydra-editor.glitch.me/)
-* [Tutorial Hydra](https://github.com/toplapbogota/una-introduccion-a-hydra?fbclid=IwAR1NDYLuBTWvW-4knMMHOmwem37UFXSzhrNDypkTYTMk1ScdPMQ9Cfhv7ZQ)
-* [P5 Live](https://teddavis.org/p5live/)
-* [Nega Sonic](https://negasonic.herokuapp.com/)
-* [Sonic Pi](https://sonic-pi.net/)
-* [Visor](http://www.visor.live/)
-* [Processing](https://www.processing.org/)
-* [Praxis Live](https://www.praxislive.org/)
-* [Ruby Processing](https://ruby-processing.github.io/)
-
-----------------------//-------------------------
 
 
