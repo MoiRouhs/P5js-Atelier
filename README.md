@@ -23,7 +23,11 @@ Este atelier va dirigido para personas que tenga alguna de las siguientes habili
 
 ### ¿Qué se necesita pra dictarlo?
 
-Salon con computadors y un video beam el cual este disponible los días sabados entre 3 a 6 de la tarde.
+Salon con computadors o  con conexión a internet via wi-fi y un video beam.
+
+### Horario Tentativo
+
+Días sabados de 9 a 11 de la mañana. (sujeto a modificaciones por disponibilidad del espacio)
 
 ### ¿Quién lo dictaría?
 
@@ -33,14 +37,15 @@ El taller estaría a cargo de Carlos Rocha, quien es un entusiasta de las tecnol
 
 Sesión | Tema
 ------ | -----
-2 de marzo | Primeras figuras geometricas y modificación de sus caracteristicas. 
-9 de marzo | Animaciones básicas.
-16 de marzo | Ejecución de ciclos.
-23 de marzo | Uso básico de imagenes y audios.
-30 de marzo | Aclaración de dudas y muestra final.
+1 | cordenada y Primeras figuras geometricas esaticas. 
+2 | Animaciones básicas, modificación de figuras geometricas.
+3 | Ejecución de ciclos.
+4 | Uso básico de imagenes y audios.
+5 | Aclaración de dudas y muestra final.
 
 ### Enlaces de interes
 
+* [Toplap](https://toplap.org/)
 * [Hydra](https://hydra-editor.glitch.me/)
 * [Tutorial Hydra](https://github.com/toplapbogota/una-introduccion-a-hydra?fbclid=IwAR1NDYLuBTWvW-4knMMHOmwem37UFXSzhrNDypkTYTMk1ScdPMQ9Cfhv7ZQ)
 * [P5 Live](https://teddavis.org/p5live/)
@@ -53,4 +58,4 @@ Sesión | Tema
 
 ----------------------//-------------------------
 
-![](giphy.gif) ![](codigo.png)
+
